@@ -16,7 +16,7 @@ var config = {
         html: './src/*.html',
         js: './src/**/*.js',
         dist: './dist',
-        mainJs: './src/main.js',
+        mainJs: './src/index.js',
         css: [
             'node_modules/bootstrap/dist/css/bootstrap.min.css',
             'node_modules/bootstrap/dist/css/bootstrap-theme.min.css',
